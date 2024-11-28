@@ -14,4 +14,4 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 I'm always open to new opportunities, so feel free to connect with me!
 
 ### 📫 How to Reach Me:
-- Email: giftedodd@gmail.com
+- Email: giftedoddd@gmail.com
