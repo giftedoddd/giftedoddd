@@ -7,9 +7,11 @@ I'm always eager to learn and explore new areas, especially in **cybersecurity**
 Feel free to check out my repositories, and don’t hesitate to reach out if you're interested in collaborating or if you have any questions!
 
 ## Technologies I’m Familiar With:
+- **Linux/Unix**: Proficient in using Linux-based operating systems, which are essential for penetration testing, security tools, and system administration.
 - **Python**: Passionate about automating tasks, building tools, and solving problems with Python.
 - **Networking**: Knowledge of network protocols, network security, and troubleshooting.
 - **Cybersecurity**: Focused on learning ethical hacking, penetration testing, and security best practices.
+- **Machine Learning & AI**: Understanding basic concepts of machine learning, which can be applied to anomaly detection in cybersecurity.
 
 I'm always open to new opportunities, so feel free to connect with me!
 
